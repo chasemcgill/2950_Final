@@ -1,0 +1,79 @@
+,country,Name,Standing,Return Rating,% 1st Serve Return Points W,% 2nd Serve Return Points W,% Return Games Won,% Break Points Converted
+0,rus,Daniil Medvedev,1,163.7,32.9,54.0,30.4,46.4
+1,esp,Carlos Alcaraz,2,162.6,35.8,53.9,32.5,40.4
+2,ita,Jannik Sinner,3,160.0,33.1,54.7,29.8,42.4
+3,srb,Novak Djokovic,4,158.4,33.0,54.1,28.6,42.7
+4,aus,Alex de Minaur,5,157.7,33.6,51.9,29.0,43.2
+5,esp,Alejandro Davidovich Fokina,6,154.6,30.8,52.9,26.3,44.6
+6,fra,Adrian Mannarino,7,154.3,29.0,52.1,25.5,47.7
+7,esp,Bernabe Zapata Miralles,8,153.3,32.8,51.3,27.6,41.6
+8,ita,Lorenzo Musetti,9,152.4,31.8,51.2,26.0,43.4
+9,arg,Francisco Cerundolo,10,151.6,33.0,51.2,27.8,39.6
+10,arg,Sebastian Baez,11,150.9,31.5,52.3,26.5,40.6
+11,usa,Mackenzie McDonald,12,149.5,29.2,53.5,23.8,43.0
+12,esp,Jaume Munar,13,149.4,32.8,49.0,25.7,41.9
+13,gbr,Cameron Norrie,14,147.0,30.9,51.0,25.2,39.9
+14,rus,Karen Khachanov,15,146.7,30.3,51.6,23.7,41.1
+15,rus,Andrey Rublev,16,146.7,29.8,52.2,24.6,40.1
+16,bul,Grigor Dimitrov,17,146.0,30.0,51.3,24.1,40.6
+17,hun,Marton Fucsovics,18,145.6,30.1,50.6,22.0,42.9
+18,per,Juan Pablo Varillas,19,145.4,29.7,52.1,22.4,41.2
+19,usa,Taylor Fritz,20,145.4,28.0,52.9,22.3,42.2
+20,rus,Roman Safiullin,21,145.3,28.6,50.5,21.8,44.4
+21,arg,Diego Schwartzman,22,144.7,30.3,49.6,23.4,41.4
+22,srb,Dusan Lajovic,23,144.7,29.9,50.4,22.3,42.1
+23,aut,Sebastian Ofner,24,143.4,29.3,51.7,22.2,40.2
+24,usa,Tommy Paul,25,143.3,30.3,51.3,24.3,37.4
+25,esp,Albert Ramos-Vinolas,26,142.6,29.5,50.0,22.1,41.0
+26,esp,Roberto Carballes Baena,27,141.4,27.5,50.8,21.9,41.2
+27,chi,Cristian Garin,28,141.1,29.7,49.8,22.9,38.7
+28,ger,Alexander Zverev,29,141.1,29.1,52.0,23.4,36.6
+29,nor,Casper Ruud,30,141.1,29.3,50.5,22.4,38.9
+30,srb,Miomir Kecmanovic,31,140.8,27.8,51.4,21.9,39.7
+31,fin,Emil Ruusuvuori,32,140.7,28.2,50.4,21.2,40.9
+32,ned,Botic van de Zandschulp,33,140.6,31.6,50.2,23.1,35.7
+33,svk,Alex Molcan,34,140.3,28.2,49.7,21.8,40.6
+34,ger,Yannick Hanfmann,35,139.8,31.5,49.7,21.8,36.8
+35,den,Holger Rune,36,139.5,29.1,49.2,21.8,39.4
+36,fra,Richard Gasquet,37,139.2,27.2,49.8,19.6,42.6
+37,usa,J.J. Wolf,38,138.7,27.7,48.9,20.1,42.0
+38,ita,Matteo Arnaldi,39,138.0,27.3,51.4,19.9,39.4
+39,arg,Tomas Martin Etcheverry,40,137.9,30.0,50.0,21.7,36.2
+40,jpn,Yoshihito Nishioka,41,137.9,26.3,51.6,21.3,38.7
+41,usa,Frances Tiafoe,42,137.8,27.3,51.1,21.6,37.8
+42,usa,Sebastian Korda,43,137.7,25.9,51.3,19.8,40.7
+43,arg,Pedro Cachin,44,136.8,29.4,46.8,20.5,40.1
+44,gbr,Daniel Evans,45,136.7,30.0,48.5,20.8,37.4
+45,fra,Ugo Humbert,46,136.0,28.5,50.1,21.8,35.6
+46,fra,Arthur Fils,47,135.6,28.7,48.6,20.0,38.3
+47,chn,Zhizhen Zhang,48,135.2,26.7,48.3,19.4,40.8
+48,srb,Laslo Djere,49,134.9,27.1,49.8,20.1,37.9
+49,usa,Marcos Giron,50,134.6,28.8,49.2,20.5,36.1
+50,esp,Roberto Bautista Agut,51,133.7,28.9,50.3,20.1,34.4
+51,gre,Stefanos Tsitsipas,52,133.5,26.6,48.8,19.3,38.8
+52,fra,Benjamin Bonzi,53,132.5,27.0,49.3,19.7,36.5
+53,ita,Lorenzo Sonego,54,132.2,26.7,47.7,17.9,39.9
+54,fra,Gregoire Barrere,55,131.9,27.9,47.2,18.6,38.2
+55,rus,Aslan Karatsev,56,131.9,27.4,47.3,18.7,38.5
+56,ger,Jan-Lennard Struff,57,131.9,26.3,48.3,18.6,38.7
+57,chi,Nicolas Jarry,58,131.2,27.9,47.7,17.3,38.3
+58,cze,Jiri Lehecka,59,131.2,27.8,47.2,18.7,37.5
+59,sui,Stan Wawrinka,60,131.2,27.1,46.7,19.2,38.2
+60,ger,Daniel Altmaier,61,131.0,27.0,49.0,18.8,36.2
+61,gbr,Andy Murray,62,129.6,28.6,50.0,18.6,32.4
+62,kaz,Alexander Bublik,63,128.7,25.1,47.3,15.8,40.5
+63,usa,Ben Shelton,64,127.3,25.8,44.4,15.7,41.4
+64,ned,Tallon Griekspoor,65,126.5,27.0,45.6,16.3,37.6
+65,aus,Jordan Thompson,66,125.8,27.8,47.5,16.6,33.9
+66,aus,Max Purcell,67,125.7,26.9,45.7,16.5,36.6
+67,cro,Borna Coric,68,125.6,28.6,45.5,16.7,34.8
+68,aus,Christopher O'Connell,69,125.5,26.4,46.9,17.5,34.7
+69,fra,Arthur Rinderknech,70,125.0,25.7,45.5,16.1,37.7
+70,pol,Hubert Hurkacz,71,124.6,27.0,46.3,16.3,35.0
+71,aut,Dominic Thiem,72,124.0,24.8,48.0,16.2,35.0
+72,fra,Quentin Halys,73,122.7,24.9,44.8,15.2,37.8
+73,can,Felix Auger-Aliassime,74,122.0,27.2,46.4,16.2,32.2
+74,aus,Thanasi Kokkinakis,75,121.9,25.9,44.8,15.9,35.3
+75,usa,Brandon Nakashima,76,119.6,27.4,46.3,15.2,30.7
+76,aus,Alexei Popyrin,77,119.5,26.0,46.0,15.2,32.3
+77,usa,Christopher Eubanks,78,114.6,22.3,45.5,12.2,34.6

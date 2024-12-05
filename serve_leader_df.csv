@@ -1,0 +1,79 @@
+,name,country,serve_rating,1st_serve_%,1st_serve_points_won_%,2nd_serve_points_won_%,service_games_won_%,avg_aces_per_match,avg_double_faults_per_match
+0,Hubert Hurkacz,pol,295.5,64.0,79.6,50.7,88.0,15.2,2.0
+1,Novak Djokovic,srb,292.2,64.3,76.8,57.9,89.0,7.0,2.8
+2,Stefanos Tsitsipas,gre,292.0,64.1,78.3,55.2,88.7,7.9,2.2
+3,Nicolas Jarry,chi,290.6,65.1,76.8,53.9,87.8,9.1,2.1
+4,Christopher Eubanks,usa,289.7,68.8,73.9,52.4,85.6,12.1,3.1
+5,Taylor Fritz,usa,288.6,59.8,78.9,55.3,87.4,9.4,2.2
+6,Quentin Halys,fra,288.5,59.2,79.9,51.7,88.1,13.5,3.9
+7,Thanasi Kokkinakis,aus,287.6,63.8,76.2,51.4,87.1,11.7,2.6
+8,Jannik Sinner,ita,283.1,59.6,76.0,56.5,87.1,5.7,1.8
+9,Alexander Zverev,ger,283.0,70.4,74.0,49.3,84.5,7.7,2.9
+10,Ben Shelton,usa,282.8,63.8,76.3,51.6,85.0,10.5,4.4
+11,Tallon Griekspoor,ned,282.8,63.2,76.5,51.5,86.2,8.8,3.4
+12,Frances Tiafoe,usa,282.3,59.9,76.9,53.3,86.3,8.1,2.2
+13,Sebastian Korda,usa,281.2,62.3,74.3,53.8,84.1,9.1,2.4
+14,Brandon Nakashima,usa,280.5,65.3,75.2,51.1,83.8,7.0,1.9
+15,Carlos Alcaraz,esp,280.5,65.3,72.1,56.4,85.0,4.0,2.3
+16,Jordan Thompson,aus,280.4,59.5,74.5,55.5,83.8,8.3,1.2
+17,Alexei Popyrin,aus,279.8,61.6,76.5,49.7,84.4,10.6,3.0
+18,Andrey Rublev,rus,279.4,61.4,75.8,51.5,84.7,7.9,1.9
+19,Karen Khachanov,rus,279.3,63.5,73.9,53.0,83.9,7.0,2.0
+20,Felix Auger-Aliassime,can,277.6,60.6,78.2,49.2,84.9,9.3,4.6
+21,Daniil Medvedev,rus,277.6,64.5,75.0,50.0,84.7,7.4,4.0
+22,Lorenzo Sonego,ita,277.2,66.2,72.7,52.1,82.8,5.4,2.0
+23,Grigor Dimitrov,bul,276.6,61.1,76.6,51.0,83.9,7.4,3.4
+24,Casper Ruud,nor,276.0,63.7,71.9,53.9,83.6,5.5,2.6
+25,Arthur Rinderknech,fra,275.1,62.2,75.9,48.4,82.8,8.9,3.1
+26,Stan Wawrinka,sui,274.8,56.2,76.0,53.5,83.0,8.0,1.9
+27,Tomas Martin Etcheverry,arg,274.0,63.8,71.4,52.8,81.4,6.3,1.7
+28,Jan-Lennard Struff,ger,273.3,58.6,75.0,50.4,83.3,9.6,3.6
+29,Tommy Paul,usa,273.2,62.3,72.2,52.9,81.5,6.6,2.3
+30,Roman Safiullin,rus,272.5,63.6,73.2,51.8,81.5,5.9,3.5
+31,Jiri Lehecka,cze,272.4,65.4,71.6,51.4,80.9,5.2,2.1
+32,Roberto Bautista Agut,esp,272.4,66.1,69.2,55.3,80.0,3.7,1.9
+33,Zhizhen Zhang,chn,272.2,63.8,72.2,51.2,80.5,6.7,2.2
+34,Holger Rune,den,271.9,61.9,72.4,53.3,83.1,5.2,4.0
+35,Marcos Giron,usa,271.5,62.2,73.0,51.4,80.8,5.5,1.4
+36,Benjamin Bonzi,fra,271.1,61.6,72.5,51.4,80.7,7.3,2.4
+37,Cameron Norrie,gbr,270.6,64.6,70.3,52.9,80.2,4.9,2.3
+38,Yannick Hanfmann,ger,270.6,67.4,67.6,53.6,78.6,5.1,1.7
+39,Laslo Djere,srb,269.8,60.9,71.9,52.3,81.4,6.1,2.8
+40,Alexander Bublik,kaz,269.6,59.3,79.1,45.7,81.9,11.1,7.5
+41,Dominic Thiem,aut,269.6,60.8,71.9,52.8,81.6,5.4,2.9
+42,Daniel Altmaier,ger,269.3,65.8,68.7,51.5,79.5,6.1,2.3
+43,Gregoire Barrere,fra,269.1,60.6,70.4,55.0,81.1,4.3,2.3
+44,Christopher O'Connell,aus,268.6,62.3,72.9,49.0,79.8,6.6,2.0
+45,Emil Ruusuvuori,fin,268.2,63.3,71.5,51.4,79.2,5.2,2.4
+46,Ugo Humbert,fra,268.1,60.0,73.6,50.3,80.4,6.7,2.9
+47,Aslan Karatsev,rus,268.0,59.3,75.4,50.1,82.1,6.3,5.2
+48,Arthur Fils,fra,267.1,61.1,73.3,48.8,81.0,6.1,3.2
+49,J.J. Wolf,usa,266.9,57.4,74.1,51.2,80.0,7.2,3.0
+50,Andy Murray,gbr,266.5,61.1,71.5,51.4,80.0,4.8,2.3
+51,Adrian Mannarino,fra,265.8,60.2,71.1,52.5,79.6,4.8,2.4
+52,Lorenzo Musetti,ita,265.3,61.9,71.0,51.5,79.4,3.9,2.4
+53,Sebastian Baez,arg,265.1,71.8,64.7,53.5,74.7,2.0,1.6
+54,Matteo Arnaldi,ita,264.9,58.5,69.6,53.8,80.6,5.7,3.3
+55,Mackenzie McDonald,usa,264.6,63.9,69.5,50.8,77.9,4.9,2.4
+56,Alejandro Davidovich Fokina,esp,264.1,65.5,66.9,53.1,77.3,3.1,1.8
+57,Borna Coric,cro,264.0,59.9,73.9,49.3,78.4,4.5,2.0
+58,Max Purcell,aus,263.0,60.1,71.9,47.0,77.5,9.2,2.7
+59,Miomir Kecmanovic,srb,262.9,60.2,68.8,53.7,78.1,3.9,1.8
+60,Alex de Minaur,aus,262.7,56.1,72.5,53.5,79.8,3.5,2.7
+61,Cristian Garin,chi,262.6,61.4,70.9,51.1,78.5,3.8,3.1
+62,Pedro Cachin,arg,261.8,62.4,71.4,48.2,76.8,5.3,2.3
+63,Daniel Evans,gbr,260.8,58.8,71.1,51.9,77.9,4.1,3.0
+64,Dusan Lajovic,srb,260.1,68.0,67.8,47.4,75.5,2.8,1.4
+65,Marton Fucsovics,hun,259.6,59.7,70.7,50.6,78.1,4.4,3.9
+66,Albert Ramos-Vinolas,esp,258.3,65.1,66.1,50.8,75.5,2.9,2.1
+67,Yoshihito Nishioka,jpn,258.0,63.3,65.2,55.1,74.2,2.1,1.9
+68,Francisco Cerundolo,arg,256.9,65.6,67.4,48.7,75.8,3.1,3.7
+69,Roberto Carballes Baena,esp,256.8,63.0,67.4,51.4,75.0,2.4,2.4
+70,Botic van de Zandschulp,ned,254.8,63.1,68.9,46.7,74.3,5.5,3.7
+71,Alex Molcan,svk,254.8,64.9,65.8,50.8,73.4,3.0,3.1
+72,Juan Pablo Varillas,per,254.2,59.1,68.0,49.6,74.2,4.6,1.3
+73,Richard Gasquet,fra,252.4,57.8,69.5,49.2,74.0,4.8,2.9
+74,Sebastian Ofner,aut,248.6,57.0,70.9,46.8,71.4,6.0,3.5
+75,Jaume Munar,esp,246.9,68.0,65.3,45.2,69.0,2.4,3.0
+76,Diego Schwartzman,arg,244.0,67.6,62.4,47.5,67.9,1.2,2.6
+77,Bernabe Zapata Miralles,esp,242.8,66.4,63.5,45.7,67.4,1.8,2.0
